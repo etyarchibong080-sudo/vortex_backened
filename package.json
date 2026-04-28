@@ -1,0 +1,12 @@
+{
+  "name": "vortex_backened",
+  "version": "1.0.0",
+  "description": "Vortex Backend API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
